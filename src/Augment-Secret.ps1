@@ -1,4 +1,4 @@
-﻿function Augment-Secret {
+function Augment-Secret {
     [CmdletBinding()]
     param (
         [Parameter(Mandatory=$true, ValueFromPipeline=$true)]

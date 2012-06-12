@@ -1,4 +1,4 @@
-﻿function Set-TSSOSecret {
+function Set-TSSOSecret {
     [CmdletBinding()]
     param (
         [Parameter(Mandatory=$true)]
